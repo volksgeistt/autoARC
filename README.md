@@ -1,5 +1,5 @@
 # Download Sources
-- **MediaFire** : https://www.mediafire.com/file/3v72lgax7vxq03z/autoARC.exe/file
+- **G-Drive** : https://drive.google.com/file/d/19anFZAb6xguYfNnxhByvC7HhOqw_sbJH/view?usp=drive_link
 - **Discord** : https://discord.gg/GN4yrVjnku  ( Join This Guild & You'll Get The .exe File )
 ![image](https://github.com/user-attachments/assets/4f5d4d40-af91-41d3-b3d3-02d21698b653)
 # autoARC
