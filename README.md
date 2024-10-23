@@ -15,7 +15,7 @@
 - **CustomKey Sequence**: Execute custom sequences of key presses with configurable delays.
 - **360 Auto Mouse Simulation**: Perform continuous mouse movements in a 360-degree pattern to mimic user interaction.
 ## How To Run?
-- Download the `autoARC.exe` file from the above **MediaFire**.
+- Download the `autoARC.exe` file from the above **G-DRIVE**.
 - Hover through your directory where you've downloaded and double-click on it to run the program
 - It may take some time to load, keep some patience and wait for it.
 - Later, When the application starts, you will see a menu with options. Enter the number corresponding to the feature you wish to use. 
