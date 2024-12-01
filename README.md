@@ -1,6 +1,5 @@
 # Download Sources
 - **G-Drive** : https://drive.google.com/file/d/19anFZAb6xguYfNnxhByvC7HhOqw_sbJH/view?usp=drive_link
-- **Discord** : https://discord.gg/GN4yrVjnku  ( Join This Guild & You'll Get The .exe File )
 ![image](https://github.com/user-attachments/assets/4f5d4d40-af91-41d3-b3d3-02d21698b653)
 # autoARC
 **autoARC is an advanced, user-friendly, and discreet automation tool for keyboard and mouse actions. Ideal for spamming on social media, avoiding AFK bans in competitive games like VALORANT / CSGO, etc and keeping your status active by simulating random in-game actions to bypass AFK detection.**
