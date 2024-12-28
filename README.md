@@ -1,5 +1,4 @@
 # Download Sources
-- **G-Drive** : https://drive.google.com/file/d/19anFZAb6xguYfNnxhByvC7HhOqw_sbJH/view?usp=drive_link
 ![image](https://github.com/user-attachments/assets/4f5d4d40-af91-41d3-b3d3-02d21698b653)
 # autoARC
 **autoARC is an advanced, user-friendly, and discreet automation tool for keyboard and mouse actions. Ideal for spamming on social media, avoiding AFK bans in competitive games like VALORANT / CSGO, etc and keeping your status active by simulating random in-game actions to bypass AFK detection.**
@@ -14,8 +13,9 @@
 - **CustomKey Sequence**: Execute custom sequences of key presses with configurable delays.
 - **360 Auto Mouse Simulation**: Perform continuous mouse movements in a 360-degree pattern to mimic user interaction.
 ## How To Run?
-- Download the `autoARC.exe` file from the above **G-DRIVE**.
-- Hover through your directory where you've downloaded and double-click on it to run the program
+- Hover through your directory where you've downloaded and run the program.
+- in the terminal use `pip install -r requirements.txt` to download all the required modules and dependencies.
+- later, after installing, use `python index.py` or `python3 index.py` to run the program.
 - It may take some time to load, keep some patience and wait for it.
 - Later, When the application starts, you will see a menu with options. Enter the number corresponding to the feature you wish to use. 
 - For example, entering `1` will start the AutoTyper.
