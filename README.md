@@ -27,6 +27,6 @@ For any questions or feedback, you can reach me via:
 - **GitHub**: [github.com/volksgeistt](https://github.com/volksgeistt)
 - **Email**: unrealvolksgeist@gmail.com
 - **Discord**: [volksgeistt](https://discord.com/users/1181256087081603116)
-- **Socials**: [Click Here](https://volksgeistt.tech)
+- **Socials**: [Click Here](https://volksgeistt.xyz)
 ---
 ### Thank-You for using autoARC, make sure to give a star to the repository and for any query or feedbacks you can simply dm me on discord or mail me on the e-mail above.
