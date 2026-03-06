@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/d06b53dc-f0e4-46e1-a415-d7721a3fefb3" /><br>
+<img width="850" height="370" alt="image" src="https://github.com/user-attachments/assets/d16de943-7d36-4f4a-b00c-841e5c8c4af5" />
+<br>
 **Advanced automation toolkit for keyboard, mouse, and screen interaction.**
 </div>
 
