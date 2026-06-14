@@ -1,0 +1,7 @@
+pyautogui
+pyperclip
+colorama
+pyfiglet
+opencv-python
+numpy
+keyboard

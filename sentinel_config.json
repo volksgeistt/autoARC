@@ -1,0 +1,24 @@
+{
+  "_comment": "Auto ARC — SysSentinel & NetWatch config. Edit freely; the app reloads this on every launch.",
+
+  "shared": {
+    "sample_interval_sec": 1.0,
+    "history_len":         60
+  },
+
+  "sys_sentinel": {
+    "comment": "CPU/RAM/GPU/Disk monitor settings"
+  },
+
+  "net_watch": {
+    "ping_timeout_sec":      3.0,
+    "loss_alert_threshold":  20.0,
+    "down_hold_consecutive": 5,
+    "default_hosts": [
+      { "ip": "8.8.8.8",        "label": "Google DNS"  },
+      { "ip": "1.1.1.1",        "label": "Cloudflare"  },
+      { "ip": "9.9.9.9",        "label": "Quad9"        },
+      { "ip": "208.67.222.222", "label": "OpenDNS"      }
+    ]
+  }
+}
